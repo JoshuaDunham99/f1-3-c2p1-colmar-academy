@@ -1,0 +1,13 @@
+header {
+width:100%;
+border-bottom:1px solid blue;
+}
+
+nav {
+  display: flex;
+  flex-flow: row-reverse;
+}
+
+img {
+  margin: 5px;
+}
